@@ -313,11 +313,12 @@ nav h1 a {
   list-style-type: none;
   margin: 0 0 10px;
   overflow: hidden;
-  padding: 0;
+  padding: 10px;
   position: relative;
   display: flex;
   flex-wrap:wrap;
-  width: 90%;
+  width: 95%;
+
 }
 
 #reviews-list li p {
