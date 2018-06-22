@@ -172,6 +172,7 @@ nav h1 a {
   display: flex; 
   flex-wrap: wrap;
   justify-content: center;
+  align-content: center;
 }
 
 #restaurants-list li {
