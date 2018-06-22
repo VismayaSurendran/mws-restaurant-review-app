@@ -15,10 +15,10 @@ For most people, it's already installed on your computer.
 
 
 In a terminal, check the version of Python you have: `python -V`.
-If you have Python 2.x, spin up the server with `python -m SimpleHTTPServer 2000` (or some other port, if port 2000 is already in use.)
-For Python 3.x, you can use `python3 -m http.server 2000`.
+If you have Python 2.x, spin up the server with `python -m SimpleHTTPServer 4002` (or some other port, if port 4002 is already in use.)
+For Python 3.x, you can use `python3 -m http.server 4002`.
 * If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
-* With your server running, visit the site: `http://localhost:2000`.
+* With your server running, visit the site: `http://localhost:4002`.
 
 
 ## Leaflet.js and Mapbox:
